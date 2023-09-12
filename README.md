@@ -9,7 +9,7 @@
 ## >課程筆記區
 ***
 ## >作業連結區
-<a href="file:///C:/Users/User/OneDrive/%E6%96%87%E4%BB%B6/GitHub/MY%20WEB/index.html"><font color=#FFC0CB>HW1</font>(9/12)</a>
+<a href="file:https://slxsh57.github.io/SLXSH57/"><font color=#FFC0CB>HW1</font>(9/12)</a>
 ***
 ## >專題連結區
 <a href="https://markdown.tw/">Markdown語法說明</a>
