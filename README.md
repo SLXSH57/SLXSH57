@@ -9,7 +9,7 @@
 ## >課程筆記區
 ***
 ## >作業連結區
-<a href="https://slxsh57.github.io/SLXSH57/">我的網頁</a>
+<a href="https://slxsh57.github.io/SLXSH57/">HW1(9/12)</a>
 
 ***
 ## >專題連結區
