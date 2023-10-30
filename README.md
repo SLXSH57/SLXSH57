@@ -9,9 +9,11 @@
 ## >課程筆記區
 ***
 ## >作業連結區
-<a href="https://slxsh57.github.io/Web/"><font color="PINK">HW1</font></a>
+<a href="https://slxsh57.github.io/Web/"><font color="PINK">HW1：個人網頁</font></a>
 
-<a href="https://youtu.be/GmczL1ChTMQ"><font color="PINK">HW2</font></a>
+<a href="https://youtu.be/GmczL1ChTMQ"><font color="PINK">HW2：動態網頁</font></a>
+
+<a href="https://youtu.be/Xh_QCIEyIlM"><font color="PINK">HW3</font></a>
 ***
 ## >專題連結區
 ***
