@@ -1,0 +1,3 @@
+git remote add origin https://github.com/SLXSH57/SLXSH57/作業二圖檔.png
+git branch -M main
+git push -u origin main
