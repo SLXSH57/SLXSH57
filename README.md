@@ -14,6 +14,6 @@
 
 [作業二檔案](https://github.com/SLXSH57/SLXSH57/blob/main/%E4%BD%9C%E6%A5%AD%E4%BA%8C.ipynb) 
 
-[作業三檔案](https://github.com/SLXSH57/SLXSH57/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%89.ipynb) [csv](https://github.com/SLXSH57/SLXSH57/blob/2c2a54fd70acbd922e9fa9adc6683a8e38e8050b/data.csv)
+[作業三檔案](https://github.com/SLXSH57/SLXSH57/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%89.ipynb) [csv](https://github.com/SLXSH57/SLXSH57/blob/2c2a54fd70acbd922e9fa9adc6683a8e38e8050b/data.csv)[json圖](https://github.com/SLXSH57/SLXSH57/blob/main/jsoncrack.com.png)
 ## >專題連結區
 ***
