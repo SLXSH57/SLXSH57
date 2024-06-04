@@ -1,6 +1,6 @@
 # 112-2 師大科技系資料結構期末專題
-專題連結(https://colab.research.google.com/drive/1PGRkGe_Pj9mGePHu_de3hOsz_6pHqKYb#scrollTo=N7N3q47heZ24)
-/n google sheet (https://docs.google.com/spreadsheets/d/16NhAOWn_yq4i3WssKDXiHmqfN6mCyzqN6O7jFXVFqeQ/edit#gid=0)
+###[專題連結](https://colab.research.google.com/drive/1PGRkGe_Pj9mGePHu_de3hOsz_6pHqKYb#scrollTo=N7N3q47heZ24)
+###[google sheet] (https://docs.google.com/spreadsheets/d/16NhAOWn_yq4i3WssKDXiHmqfN6mCyzqN6O7jFXVFqeQ/edit#gid=0)
 
 
 # 112-2 師大科技系程式語言
